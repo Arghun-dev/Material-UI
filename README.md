@@ -95,7 +95,7 @@ export default App;
 As you can see I wrapped all the components with `ThemeProvider` and then I have imported the `theme` file from `AppStyle.js` and I used it in `<ThemeProvider theme={theme} />`
 
 
-## Make Materil-UI RTL
+## 3. Make Materil-UI RTL
 
 check this link: `https://material-ui.com/guides/right-to-left/`
 
