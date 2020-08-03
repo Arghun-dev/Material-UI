@@ -100,3 +100,6 @@ As you can see I wrapped all the components with `ThemeProvider` and then I have
 check this link: `https://material-ui.com/guides/right-to-left/`
 
 
+## 4. Hidden component
+
+check this link: `https://material-ui.com/components/hidden/`
